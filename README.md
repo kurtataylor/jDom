@@ -1,5 +1,4 @@
-# [jDom]&middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
-
+# [jDom]&middot;
 Shorthand means of generating jQuery DOM elements
 
 
