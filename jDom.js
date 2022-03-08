@@ -1,4 +1,4 @@
-var jDom = function (templateString) {
+var jEmmit = function (templateString) {
     //Markers that are used for dividing the templateString
     let dividers = ["+", ">", "#", ".", "{", "[", "^", "@", "*"];
     //Break the string into an array of indexes
@@ -154,4 +154,4 @@ function slicer(str, arrayInd) {
 }
 
 //shortcuts
-var jd = jDom, JD = jDom;
+var je = jEmmit, JE = jEmmit; jE = jEmmit;
